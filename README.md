@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/87380790/126422980-c62f305c-18d3-42f3-9f04-0a0370c95082.PNG" width="45%">
 
-Java PacMan with AI
+Java Swing base PacMan with AI
 
 ---
   
