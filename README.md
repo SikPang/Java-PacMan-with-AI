@@ -8,6 +8,8 @@ Java Swing base PacMan with AI
 
 ---
   
+<br/>  
+  
   
 <img src="https://user-images.githubusercontent.com/87380790/126423099-217a4341-bb91-4554-9c95-0100da4e1f9e.gif" width="60%">
   
