@@ -10,7 +10,7 @@
 
 ## 1. 유령 AI
 > 4마리의 유령은 각각 독립적으로 행동
-<img src="https://user-images.githubusercontent.com/87380790/175811194-731393bf-deac-487c-9101-b7e3af7ee067.gif" width="50%">
+<img src="https://user-images.githubusercontent.com/87380790/175811194-731393bf-deac-487c-9101-b7e3af7ee067.gif" width="70%">
 
 - Idle 상태에서의 유령은 랜덤으로 방향 선택 후 벽까지 이동, 이후 다른 방향 선택 <br/>
 - 유령 근처 5x5에 플레이어 접근 시, 유령은 추적 상태로 변경
@@ -20,7 +20,7 @@
 
 ## 2. 아이템
 > 아이템 획득 이후 일정 시간동안 유령 약화
-<img src="https://user-images.githubusercontent.com/87380790/175811190-ffe43564-3827-42b0-a46a-ad8f71e7b155.gif" width="50%">
+<img src="https://user-images.githubusercontent.com/87380790/175811190-ffe43564-3827-42b0-a46a-ad8f71e7b155.gif" width="70%">
 
 - 약화된 유령과 충돌 시 보너스 점수 획득 <br/>
 - 유령은 일정 시간 후 부활, 약화 상태 해제 <br/>
